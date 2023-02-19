@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Tristan B. Velloza Kildaire"
+	],
+	"copyright": "Copyright © 2023, Tristan B. Velloza Kildaire",
+	"dependencies": {
+		"vibe-d": "~>0.9.5"
+	},
+	"description": "Nostr directory service",
+	"license": "AGPL v3.0",
+	"name": "nostdir"
+}

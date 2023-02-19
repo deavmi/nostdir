@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/nostdir
+nostdir.so
+nostdir.dylib
+nostdir.dll
+nostdir.a
+nostdir.lib
+nostdir-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
